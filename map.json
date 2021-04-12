@@ -55,7 +55,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dashboard.zenika.ca\/#\/"
+                 "value":"https:\/\/dashboard.zenika.ca\/?configUrl=.%2Fconfig%2Fmontreal-agency.json&timer=30&currentSlide=0&isPlaying=true"
                 }],
          "type":"tilelayer",
          "visible":true,
